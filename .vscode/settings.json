@@ -1,0 +1,30 @@
+{
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeLinkDefinitions": "always",
+      "source.removeUnusedImports": "always",
+      "source.fixAll": "always"
+    }
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeLinkDefinitions": "always",
+      "source.removeUnusedImports": "always",
+      "source.fixAll": "always"
+    }
+  },
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeLinkDefinitions": "always",
+      "source.removeUnusedImports": "always",
+      "source.fixAll": "always"
+    }
+  },
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeLinkDefinitions": "always",
+      "source.removeUnusedImports": "always",
+      "source.fixAll": "always"
+    }
+  }
+}
