@@ -1,0 +1,26 @@
+{
+  "AppSidebar": {
+    "header": {
+      "logged": {},
+      "unlogged": {
+        "login": "Click here to login!"
+      }
+    },
+    "groups": {
+      "application": {
+        "title": "Application",
+        "items": {
+          "home": "Home",
+          "tasks": "Tasks",
+          "calendar": "Calendar",
+          "search": "Search",
+          "settings": "Settings"
+        }
+      }
+    }
+  },
+  "HomePage": {
+    "title": "Hello, world!",
+    "description": "Website under development..."
+  }
+}

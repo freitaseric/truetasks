@@ -1,10 +1,8 @@
-'use client'
-
 import { ThemeSwitcher } from '@/components'
-import { useI18n } from '@/locales/client'
+import { useTranslations } from 'next-intl'
 
 export default function Home() {
-  const t = useI18n()
+  const t = useTranslations('HomePage')
 
   return (
     <div className="flex flex-1 flex-col justify-center items-center h-screen w-screen">

@@ -29,6 +29,6 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "src/app/manifest.js"
-  ],
+, "next.config.mjs", "src/app/middleware.js"  ],
   "exclude": ["node_modules"]
 }

@@ -1,0 +1,20 @@
+{
+  "AppSidebar": {
+    "groups": {
+      "application": {
+        "title": "Aplicativo",
+        "items": {
+          "home": "Início",
+          "tasks": "Tarefas",
+          "calendar": "Calendário",
+          "search": "Pesquisar",
+          "settings": "Configurações"
+        }
+      }
+    }
+  },
+  "HomePage": {
+    "title": "Olá, mundo!",
+    "description": "Site em desenvolvimento..."
+  }
+}
